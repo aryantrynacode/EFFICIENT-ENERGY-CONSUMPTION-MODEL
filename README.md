@@ -30,8 +30,7 @@ We aim to:
 
 - 📊 **Statistical Algorithm**: Multiple Linear Regression
 - 📦 **Libraries**: `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`
-- ⚙️ **Preprocessing**:
-  - Categorical encoding (`WeekStatus`, `Load_Type`, etc.)
+- ⚙️ **Preprocessing**
   - Feature selection
   - Correlation analysis
 - 📈 **Model Evaluation**:
