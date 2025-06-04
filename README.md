@@ -40,6 +40,7 @@ We aim to:
   - CV: Standardized error relative to average energy use
 
 ---
+## END
 
-## 📉 Sample Output (Example Coefficients)
+
 
