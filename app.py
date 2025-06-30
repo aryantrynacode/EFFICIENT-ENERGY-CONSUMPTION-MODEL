@@ -23,7 +23,7 @@ st.title('🎯 Objective')
 
 st.write('To predict the energy consumption (Usage_kWh) using multiple process-related and temporal features. We aim to Develop a multiple linear regression (MLR) model to forecast energy usage')
 
-df = pd.read_csv('C:/Users/xryan/OneDrive/Documents/streamlit2323/dataset/Steel_industry_data.csv')
+df = pd.read_csv('Steel_industry_data.csv')
 
 st.subheader("📊 Dataset Overview")
 st.write(df.head())
