@@ -1,5 +1,7 @@
 # 🔧 Predictive Energy Consumption Model for Steel Industry
 
+## **App Link**: https://efficient-energy-consumption-prediction.streamlit.app
+
 ## 📌 Project Overview
 
 This project involves building a **predictive model** to estimate **energy consumption** in a smart small-scale steel industry using **multiple linear regression**, a statistical algorithm.
